@@ -1,2 +1,0 @@
-# MyDarieS
-MyDarieS
