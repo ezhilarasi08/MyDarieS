@@ -18,6 +18,13 @@ The app lets users:
 - Save dictionary-style items
 - Use a simple dichotomy board for control / uncontrolled thoughts
 
+-<img width="1920" height="1020" alt="signIn pages" src="https://github.com/user-attachments/assets/82a37ba6-56f4-4e4f-9224-c19834e2cfff" />
+-<img width="1920" height="1020" alt="notes to be remember" src="https://github.com/user-attachments/assets/73dc7215-4331-43d9-93a1-feaa0db9f537" />
+-<img width="1920" height="1020" alt="checklist notes" src="https://github.com/user-attachments/assets/9378430d-59d3-4415-a88e-568d57968203" />
+-<img width="1920" height="1020" alt="budget notes" src="https://github.com/user-attachments/assets/464d5d23-2da0-49c0-acdc-b9e403e9fc3d" />
+-<img width="1920" height="1020" alt="dictonary for saving a new words meaning" src="https://github.com/user-attachments/assets/be1c516d-ce58-431b-bf8c-27a5fa282d97" />
+-<img width="1920" height="1020" alt="dichtonomy control" src="https://github.com/user-attachments/assets/1c03c4bf-7bd6-413c-b9df-4d2b7f4b3609" />
+
 ## Tech used
 
 - React
